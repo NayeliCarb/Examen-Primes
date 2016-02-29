@@ -156,7 +156,7 @@ div.ion-levels{
 /* --------------------------------------------HASTA AQUI REALIZO KAREN----------------------------------------------------*/
 /*-------------------------------------APARTIR DE AQUI REALIZO NAYELI------------------------------------------------------*/
 .back1{
-	background-image: url(C:/Users/Alumna/Desktop/Primes/img/background/city.jpg);
+	background-image: url(../img/background/city.jpg);
 	background-size: 100%;
 	height: 500px;
 	-webkit-filter: brightness(50%);
@@ -312,7 +312,7 @@ h2{
     color:    white;
     opacity: 1;
 }
-.back{
+.back3{
 	background-image: url(../img/background/contactus.jpg);
 	-webkit-filter: brightness(50%);
 	background-size: 100% 120%;
